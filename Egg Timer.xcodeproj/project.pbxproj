@@ -16,6 +16,7 @@
 		4C7957E82A739A0600DF82D1 /* Egg_TimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7957E72A739A0600DF82D1 /* Egg_TimerTests.swift */; };
 		4C7957F22A739A0600DF82D1 /* Egg_TimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7957F12A739A0600DF82D1 /* Egg_TimerUITests.swift */; };
 		4C7957F42A739A0600DF82D1 /* Egg_TimerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7957F32A739A0600DF82D1 /* Egg_TimerUITestsLaunchTests.swift */; };
+		4C7958012A7502AA00DF82D1 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C7958002A7502AA00DF82D1 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4C7957ED2A739A0600DF82D1 /* Egg TimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Egg TimerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C7957F12A739A0600DF82D1 /* Egg_TimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg_TimerUITests.swift; sourceTree = "<group>"; };
 		4C7957F32A739A0600DF82D1 /* Egg_TimerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egg_TimerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4C7958002A7502AA00DF82D1 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				4C7957CF2A739A0500DF82D1 /* Egg Timer */,
+				4C7958002A7502AA00DF82D1 /* alarm_sound.mp3 */,
 				4C7957E62A739A0600DF82D1 /* Egg TimerTests */,
 				4C7957F02A739A0600DF82D1 /* Egg TimerUITests */,
 				4C7957CE2A739A0500DF82D1 /* Products */,
@@ -233,6 +236,7 @@
 			files = (
 				4C7957DD2A739A0600DF82D1 /* LaunchScreen.storyboard in Resources */,
 				4C7957DA2A739A0600DF82D1 /* Assets.xcassets in Resources */,
+				4C7958012A7502AA00DF82D1 /* alarm_sound.mp3 in Resources */,
 				4C7957D82A739A0500DF82D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
